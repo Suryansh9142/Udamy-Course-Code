@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "postman-request": "^2.88.1-postman.34",
+    "request": "^2.88.2"
+  },
+  "name": "weather-app-3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suryansh",
+  "license": "ISC",
+  "description": ""
+}

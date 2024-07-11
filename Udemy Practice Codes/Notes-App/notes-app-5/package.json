@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "app.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "node": "^12.0.0"
+  }
+}

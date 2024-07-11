@@ -1,0 +1,15 @@
+{
+  "name": "notes-app-9",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suryansh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^17.7.2"
+  }
+}
